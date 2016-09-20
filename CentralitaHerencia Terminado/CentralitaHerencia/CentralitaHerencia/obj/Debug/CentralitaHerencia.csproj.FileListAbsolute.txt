@@ -1,0 +1,5 @@
+F:\!PROGRAMACION II 2016\CentralitaHerencia\CentralitaHerencia\bin\Debug\CentralitaHerencia.exe
+F:\!PROGRAMACION II 2016\CentralitaHerencia\CentralitaHerencia\bin\Debug\CentralitaHerencia.pdb
+F:\!PROGRAMACION II 2016\CentralitaHerencia\CentralitaHerencia\obj\Debug\CentralitaHerencia.exe
+F:\!PROGRAMACION II 2016\CentralitaHerencia\CentralitaHerencia\obj\Debug\CentralitaHerencia.pdb
+F:\!PROGRAMACION II 2016\CentralitaHerencia\CentralitaHerencia\obj\Debug\CentralitaHerencia.csprojResolveAssemblyReference.cache
